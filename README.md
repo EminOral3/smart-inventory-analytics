@@ -39,25 +39,4 @@ A major milestone of this project was engineering a robust **Risk Breakdown Stru
 | **Software Dev Risks** | Technical | 4 | 5 | Continuous continuous-integration testing, thorough schema validation. |
 | **Data Quality / Security** | Operational | 5 | 2 | End-to-end data encryption (AES), RBAC (Role-Based Access Control), and firewall protection. |
 
----
 
-## 👥 Project Contributors (Group 2)
-
-* **Tuğçe Nur AYGÜN** (IND) - Project Planning & Architecture
-* **Muhammed Emin ORAL** (IND) - Database & Network Infrastructure
-* **Serhan KARPUZ** (IND) - Risk Management & Testing
-* **Bora KARDAŞ** (IND) - Use Cases & Financials
-* **Beyza EKİNCİ** (IND) - Market Research & Process Workflows
-* **Muhammed Enes ALBAYRAK** (IND) - WBS & Reporting
-
----
-
-## 📂 Repository Directory
-
-```text
-├── docs/
-│   └── Group 2_Final Report.pdf   <- Full comprehensive project documentation
-├── assets/
-│   ├── risk_matrix.png            <- Risk Severity Matrix Visualization
-│   └── wbs_chart.png              <- MS Project Gantt / WBS chart
-└── README.md                      <- Project Overview & Data Science summary
