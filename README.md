@@ -1,6 +1,6 @@
 # Smart Inventory Management System: IoT & Predictive Data Analytics
 
-[cite_start]This repository features the comprehensive project planning, architecture design, and risk modeling framework for an **IoT-driven Smart Inventory Management System**[cite: 6, 15, 31, 134]. [cite_start]Developed as a final group project for Istanbul Medipol University's Project Management course (Spring 2022-2023)[cite: 2, 5, 6].
+This repository features the comprehensive project planning, architecture design, and risk modeling framework for an **IoT-driven Smart Inventory Management System**[cite: 6, 15, 31, 134]. [cite_start]Developed as a final group project for Istanbul Medipol University's Project Management course (Spring 2022-2023)[cite: 2, 5, 6].
 
 [cite_start]The project bridges the gap between hardware tracking (IoT sensors/RFID) and software execution by embedding **Data Science and Predictive Analytics** methodologies into core supply chain workflows[cite: 16, 21, 33, 318].
 
